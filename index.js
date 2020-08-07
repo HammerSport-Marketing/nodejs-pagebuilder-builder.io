@@ -59,6 +59,7 @@ let template = ( {
       <main>${body}</main>
       <footer>
 	  </footer>
+	  <script src="https://js.stripe.com/v3"> </script>
 	  </body>
   </html>
 `;
