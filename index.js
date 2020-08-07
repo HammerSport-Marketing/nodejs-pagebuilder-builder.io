@@ -80,8 +80,6 @@ let template = ( {
 		<
 		!--End Google Tag Manager( noscript ) -->
 	  <main>
-	  
-	 <h1>test</h1>
 	  ${body}</main>
       <footer>
 	  </footer>
