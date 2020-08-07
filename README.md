@@ -2,20 +2,13 @@
 
 ### Quick start
 
-[Open this example in Codesandbox](https://codesandbox.io/s/github/BuilderIO/builder/tree/master/examples/node-express)
-
-<a target="_blank" href="https://codesandbox.io/s/github/BuilderIO/builder/tree/master/examples/node-express">
-  <img width="597" height="375" src="https://i.imgur.com/zue72Q0.jpg">
-</a>
-
-### To run the example Locally
-
 ```bash
-git clone https://github.com/BuilderIO/builder.git
-cd examples/node-express
+git clone https://github.com/HammerSport-Marketing/pagebuilder.git
+cd pagebuilder
 npm install
 npm start
 ```
 
 See index.js for the source
+
 # pagebuilder
