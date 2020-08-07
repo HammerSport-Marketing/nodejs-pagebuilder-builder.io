@@ -1,4 +1,4 @@
-## Builder.io example with node and express
+## A NodeJS version of Builder.io that live reloads.
 
 ### Quick start
 
