@@ -52,7 +52,7 @@ let template = ( {
 	  
 	<head>
 	<!-- Google Tag Manager -->
-	<script > ( function ( w, d, s, l, i ) {
+	<script> ( function ( w, d, s, l, i ) {
 		w[ l ] = w[ l ] || [];
 		w[ l ].push( {
 			'gtm.start': new Date().getTime(),
@@ -65,18 +65,18 @@ let template = ( {
 		j.src =
 			'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
 		f.parentNode.insertBefore( j, f );
-	} )( window, document, 'script', 'dataLayer', 'GTM-M5G7HMQ' ); < /script> <
-	!--End Google Tag Manager -->
+	} )( window, document, 'script', 'dataLayer', 'GTM-M5G7HMQ' ); 
+	</script> <!--End Google Tag Manager -->
       <title>
         ${title || 'How To Build A Brand That Lasts For Decades'}
       </title>
  </head>
 	<body>
 	<!-- Google Tag Manager (noscript) -->
-	<noscript> <iframe src = "https://www.googletagmanager.com/ns.html?id=GTM-M5G7HMQ"
+	<noscript> <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5G7HMQ"
 	height = "0"
 	width = "0"
-	style = "display:none;visibility:hidden" > < /iframe></noscript >
+	style="display:none;visibility:hidden"> </iframe></noscript >
 		<
 		!--End Google Tag Manager( noscript ) -->
 	  <main>
